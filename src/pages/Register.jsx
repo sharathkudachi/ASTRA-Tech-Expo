@@ -44,7 +44,7 @@ const Register = () => {
 
         <div className="pt-8 border-t border-custom-border">
           <motion.a
-            href="https://unstop.com/o/YOUR_LINK_HERE"
+            href="https://unstop.com/o/MTlI1zJ"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.02 }}
