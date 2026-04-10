@@ -65,8 +65,9 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-            href="/Defense Tech Expo Club Brochure.pdf"
-            download="Defense Tech Expo Club Brochure.pdf"
+            href="/defence_expo_brochure (1).html"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-2 border border-accent-orange text-accent-orange font-orbitron text-xs tracking-tactical uppercase hover:bg-accent-orange hover:text-bg-base transition-all duration-300"
           >
             Brochure

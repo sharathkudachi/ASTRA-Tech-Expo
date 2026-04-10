@@ -88,8 +88,9 @@ const Home = () => {
             Register on Unstop
           </Link>
           <a
-            href="/Defense Tech Expo Club Brochure.pdf"
-            download="Defense Tech Expo Club Brochure.pdf"
+            href="/defence_expo_brochure (1).html"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-10 py-4 border border-accent-orange text-accent-orange font-orbitron font-bold tracking-tactical uppercase hover:bg-accent-orange hover:text-bg-base transition-all"
           >
             Download Brochure
