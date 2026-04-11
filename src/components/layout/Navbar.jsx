@@ -65,8 +65,8 @@ const Navbar = () => {
             </Link>
           ))}
           <a
-            href="/ASTRA DEFENCE TECH EXPO'26 BROCHURE.pdf"
-            download="ASTRA DEFENCE TECH EXPO'26 BROCHURE.pdf"
+            href="/ASTRA DEFNCE TECH EXPO'26 BROCHURE (1).pdf"
+            download="ASTRA DEFNCE TECH EXPO'26 BROCHURE (1).pdf"
             className="px-6 py-2 border border-accent-orange text-accent-orange font-orbitron text-xs tracking-tactical uppercase hover:bg-accent-orange hover:text-bg-base transition-all duration-300"
           >
             Brochure

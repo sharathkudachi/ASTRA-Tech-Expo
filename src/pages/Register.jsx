@@ -64,7 +64,7 @@ const Register = () => {
             Register on Google Form <HiExternalLink className="ml-3 text-2xl" />
           </motion.a>
           <p className="text-accent-amber font-rajdhani text-sm text-center tracking-wide pt-2">
-            Note: The registration on Unstop has been temporarily disabled. Please use Google Form for registration.
+            Note: if unstop is not working please register on google form 
           </p>
         </div>
       </div>
